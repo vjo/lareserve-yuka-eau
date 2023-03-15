@@ -28,7 +28,7 @@ entities:  {
 }
 ```
 
-You are then able to query for the water quality of given a "region > departement > commune > reseau" group.
+You are then able to query for the water quality of given a `region > departement > commune > reseau` group.
 
 ## How to
 
